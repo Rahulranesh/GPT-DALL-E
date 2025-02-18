@@ -106,7 +106,7 @@ class _HomePageState extends State<HomePage> {
                     ),
                   ),
                 ],
-              ),
+              )
             ),
 
             // Chat bubble
